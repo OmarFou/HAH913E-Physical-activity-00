@@ -15,5 +15,8 @@ The notebook:
 - `0_z.csv` → Raw accelerometer dataset (t, x, y, z).
 - Output plots (PNG files) → Visualize integrated ENMO values.
 
+View the full analysis notebook here:  
+[HAH913E_ENMO_Assignment.ipynb](https://github.com/OmarFou/HAH913E-Physical-activity-00/blob/main/HAH913E_ENMO_Assignment.ipynb)
+
 
 
